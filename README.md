@@ -1,6 +1,4 @@
-bash
-# Create README.md
-cat > README.md << 'EOF'
+
 # Real-Time Demographic Analysis System
 
 A Python-based computer vision application that performs real-time age, gender, and ethnicity estimation using webcam feed.
